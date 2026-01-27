@@ -1,2 +1,10 @@
-# SFASU-CRC-2025
-This is a bare repository to be used for the CRC App.
+# CRC App
+
+## Contributors
+Thomas Mooney
+Cameron Allison
+Ashley Linstrom
+Hayden Howard
+
+## Description
+This is a repository for 3323's CRC App semester project.
